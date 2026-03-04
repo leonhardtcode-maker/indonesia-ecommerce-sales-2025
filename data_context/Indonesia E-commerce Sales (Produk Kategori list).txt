@@ -1,0 +1,58 @@
+KATEGORI PRODUK
+
+[Peralatan Makan & Minum]
+
+* Piring
+* Mangkok Sambal / Saus
+* Peralatan Makan
+* Botol / Gelas / Mug
+* Teko / Jug
+
+[Wadah & Penyimpanan Makanan]
+
+* Toples / Sealware
+* Lunch Box / Rantang
+* Tempat Nasi
+* Baskom / Mangkok Besar
+* Nampan / Tray
+
+[Alat Dapur]
+
+* Pisau / Alat Potong
+* Spatula
+* Saringan / Strainer
+
+[Perlengkapan Rumah Tangga Umum]
+
+* Plastik / Wadah Plastik
+* Keranjang
+* Rak / Rak Serbaguna
+* Bangku / Kursi Kecil
+
+[Perlengkapan Mandi & Kebersihan]
+
+* Aksesoris Mandi
+* Sapu / Pembersih Lantai
+
+[Aksesoris Rumah & Bangunan]
+
+* Aksesoris Pintu
+* Seal / Baut / Roof
+
+[Perlengkapan Pribadi]
+
+* Gantungan Baju / Hanger
+
+[Peralatan Kantor & Aksesoris]
+
+* Stempel / Alat Kantor
+* Aksesoris ID Card
+
+[Perlengkapan Packing & Misc]
+
+* Perlengkapan Packing
+
+[Lainnya]
+
+* Celengan
+* Other

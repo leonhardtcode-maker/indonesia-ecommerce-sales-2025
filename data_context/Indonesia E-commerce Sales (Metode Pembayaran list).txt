@@ -1,0 +1,30 @@
+METODE PEMBAYARAN
+
+[Dompet Digital / E-Wallet]
+
+* Saldo ShopeePay
+* SeaBank Bayar Instan
+* SPayLater
+* i.Saku
+
+[Transfer & Pembayaran Online]
+
+* Online Payment
+
+[Bayar di Tempat]
+
+* COD (Bayar di Tempat)
+
+[Gerai Retail / Minimarket]
+
+* Indomaret
+* Alfamart / Alfamidi / Dan+Dan
+
+[Kartu Kredit / Debit]
+
+* Kartu Kredit / Debit
+* Cicilan Kartu Kredit
+
+[Lainnya]
+
+* Pembayaran dibebaskan

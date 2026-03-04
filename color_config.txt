@@ -1,0 +1,35 @@
+===== Color Config =====
+--bg-dark: #e1e6e6;
+--bg: #eef3f3;
+--bg-light: #fbffff;
+--text: #070c0d;
+--text-muted: #42494a;
+--highlight: #f8ffff;
+--border: #7a8282;
+--border-muted: #98a0a1;
+--primary: #00565d;
+--secondary: #742d31;
+--danger: #7d5952;
+--warning: #6a6443;
+--success: #4a6c59;
+--info: #536480;
+
+
+===== PRIMARY =====
+--primary-dark: #00474d;     /* lebih gelap (active) */
+--primary: #00565d;
+--primary-light: #1f6f76;    /* lebih terang (hover) */
+--primary-soft: #e6f2f3;     /* background lembut */
+
+===== SECONDARY =====
+--secondary-dark: #5f2428;
+--secondary: #742d31;
+--secondary-light: #8a4448;
+--secondary-soft: #f3e9ea;
+
+
+Arrow Naik	#2ECC71
+Arrow Turun	#E74C3C
+
+Neutral 0.01
+Warmer 200

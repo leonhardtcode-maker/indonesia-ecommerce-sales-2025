@@ -1,0 +1,62 @@
+OPSI PENGIRIMAN (KELOMPOK ANALISIS)
+
+[INSTANT / KURIR CEPAT (≤ beberapa jam)]
+
+* Instant
+* Instant (Versi Lama)
+* Instant Prioritas
+* SPX Instant
+* SPX Instant (Versi Lama)
+* SPX Instant Prioritas
+* GrabExpress Instant
+* GrabExpress Instant (Versi Lama)
+* GoSend Instant
+* GoSend Instant (Versi Lama)
+* GoSend Instant Prioritas
+* Gosend Instant
+* Instant-SPX Instant
+* Instant (Versi Lama)-SPX Instant (Versi Lama)
+* Instant (Versi Lama)-GrabExpress Instant (Versi Lama)
+* Instant (Versi Lama)-GoSend Instant (Versi Lama)
+
+[SAME DAY (KIRIM HARI YANG SAMA)]
+
+* Same Day
+* Same Day-SPX Sameday
+* SPX Sameday
+* GrabExpress Sameday
+* GoSend Same Day
+* Same Day-GoSend Same Day
+
+[NEXT DAY (BESOK SAMPAI)]
+
+* Next Day-JNE YES
+
+[REGULER / STANDARD (2–4 HARI)]
+
+* Reguler (Cashless)
+* SPX Standard
+* Reguler (Cashless)-SPX Standard
+* Reguler (Cashless)-JNE Reguler
+* Reguler (Cashless)-J&T Express
+* JNE Reguler
+* J&T Express
+
+[KARGO / HEMAT (BARANG BESAR & MURAH)]
+
+* Hemat Kargo
+* SPX Hemat
+* Hemat Kargo-SPX Hemat
+* Kargo
+* Kargo-J&T Cargo
+* J&T Cargo
+* Hemat Kargo-J&T Cargo
+* Hemat Kargo-J&T Economy
+* Kargo-JNE Trucking (JTR)
+* Hemat Kargo-JNE Trucking (JTR)
+* JNE Trucking (JTR)
+
+[PENGIRIMAN VIA TITIK / AGEN]
+
+* SPX Express Point
+* Agen SPX Express

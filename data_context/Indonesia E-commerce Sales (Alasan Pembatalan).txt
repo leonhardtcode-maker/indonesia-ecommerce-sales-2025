@@ -1,0 +1,44 @@
+ALASAN PEMBATALAN (KELOMPOK ANALISIS)
+
+
+[Pesanan dalam proses pengiriman / Terkirim]
+- Sedang dikirim
+- Telah dikirim
+- Barang diterima
+
+[SUKSES / TIDAK DIBATALKAN]
+- null
+
+[MASALAH PENJUAL / OPERASIONAL]
+- Penjual tidak mengatur pengiriman tepat waktu
+- Penjual gagal mengirimkan pesanan tepat waktu
+- Produk habis
+
+[MASALAH SISTEM / LOGISTIK]
+- Pesanan belum dibayar
+- Pengiriman gagal
+- Paket hilang di perjalanan
+- Dibatalkan otomatis - Lainnya
+
+[PERUBAHAN PESANAN (EDIT ORDER)]
+- Need to change delivery address
+- Perlu mengubah alamat pengiriman
+- Ubah Pesanan yang Ada
+- Perlu mengubah pesanan
+- Perlu mengubah Voucher
+
+[BERUBAH PIKIRAN]
+- Lainnya / berubah pikiran
+- Tidak ingin membeli lagi
+
+[MASALAH HARGA]
+- Menemukan yang lebih murah
+
+[PENGALAMAN BELANJA BURUK]
+- Penjual tidak responsif terhadap pertanyaan Pembeli
+- Proses pembayaran sulit
+
+[LAINNYA]
+- Dibatalkan oleh Pembeli. Alasan: Lainnya
+- Dibatalkan secara otomatis oleh sistem. Alasan: Lainnya
+- Alasan baru yang belum terklasifikasi
